@@ -1,0 +1,13 @@
+name: xml-to-fst-for-IFRS9_ECL
+title: xml-to-fst-for-IFRS9_ECL
+username:
+account: revanthnemani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 697141
+bundleId: 1861421
+url: https://revanthnemani.shinyapps.io/xml-to-fst-for-IFRS9_ECL/
+when: 1549531249.09403
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
