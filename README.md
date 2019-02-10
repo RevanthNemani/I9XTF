@@ -1,4 +1,4 @@
-## Welcome I9 XML to fst converter Page
+## Welcome I9 XML to fst converter
 
 The XML to fst converter specifically for IFRS 9 ECL calculation with integrity in alizz iIslamic bank.
 
