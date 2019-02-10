@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome I9 XML to fst converter Page
 
-You can use the [editor on GitHub](https://github.com/RevanthNemani/I9XTF/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The XML to fst converter specifically for IFRS 9 ECL calculation with integrity in alizz iIslamic bank.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The website is [here](https://revanthnemani.shinyapps.io/xml-to-fst-for-IFRS9_ECL). It is hosted on Shinyapps.io and can only be used by a user with login password.
 
-### Markdown
+***********************************************************************
+YEAR: **2019**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+COPYRIGHT HOLDER: **Revanth Nemani**
 
-```markdown
-Syntax highlighted code block
+License: **Proprietary license**
 
-# Header 1
-## Header 2
-### Header 3
+************************************************************************
 
-- Bulleted
-- List
+Copyright (c) 2019, Revanth Nemani
 
-1. Numbered
-2. List
+Permission is hereby not granted to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software, including to copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software.
 
-**Bold** and _Italic_ and `Code` text
+Only the rights to use this particular version lies with alizz islamic Bank
+for whom the Software is furnished with limitation to copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software with an exception on actions
+arising from instructions in the documentation.
 
-[Link](url) and ![Image](src)
-```
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR AND COPYRIGHT HOLDER BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RevanthNemani/I9XTF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+THE COPYRIGHT HOLDER AND AUTHOR MAY SUPPORT ON HIS/HER WILL IF CONTACTED
+BUT IS NOT OBLIGED TO DO SO IN ANY EVENT.
