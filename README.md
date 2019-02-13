@@ -1,6 +1,6 @@
 ## Welcome I9 XML to fst converter
 
-The XML to fst converter specifically for IFRS 9 ECL calculation with integrity in alizz iIslamic bank.
+The XML to fst converter specifically for IFRS 9 ECL calculation with integrity check in alizz iIslamic bank.
 
 The website is [here](https://revanthnemani.shinyapps.io/xml-to-fst-for-IFRS9_ECL). It is hosted on Shinyapps.io and can only be used by a user with login password.
 
